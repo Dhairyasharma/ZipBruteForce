@@ -1,6 +1,6 @@
 # ZipBruteForce
 Python Script To Brute Force Password Protected Zip Files
-## Usage: python3 zip_brute_force.py path/to/zip/file path/to/wordlist
+#### Usage: python3 zip_brute_force.py path/to/zip/file path/to/wordlist
 ## Modes : 
 #### VERBOSE 
 Display every password tried .
